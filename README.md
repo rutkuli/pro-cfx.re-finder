@@ -1,3 +1,4 @@
+# CREDITS: Frosherowski#0550 and Speedy#5148
 # very pro hard cfx.re finder!!!! PASTE NOW AND SELL!
 ## Installation:
 > 1. Drag everything to one folder
