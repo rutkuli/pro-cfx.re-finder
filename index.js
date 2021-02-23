@@ -1,5 +1,5 @@
-var request = require('request')
-var isUrl = require("is-url")
+const request = require('request'),
+      isUrl = require("is-url");
 
 
 function requestUrl(url) {
@@ -19,7 +19,7 @@ function requestUrl(url) {
 }
 
 
-async function tryRequest() {
+function tryRequest() {
     if (isUrl(process.argv[2])) {
         requestUrl(process.argv[2]).then(asd => {
             if (!isNaN(asd.charAt(0))) {
