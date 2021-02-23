@@ -6,7 +6,7 @@
 > 4. And use finder with "node index.js <link to cfx.re>"
 
 ### Usage:
-> "node index.js <link to cfx.re>"
+> "node index.js (link to cfx.re)"
 
 
 ### all credits to Frosherowski#0550 and Speedy#5418 have fun selling
